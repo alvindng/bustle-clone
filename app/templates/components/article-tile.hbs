@@ -1,13 +1,15 @@
-<div class="article col-sm-4">
-  <img src={{article.image}} alt={{article.headline}} class="articleImg" />
-  <h5>
-    {{article.headline}}
-  </h5>
-  <hr>
-  <p class="footerAuthor">
-    {{article.author}}
-  </p>
-  <p class="footerTime">
-    {{article.time}}
-  </p>
-</div>
+  <div class="article col-sm-4 well">
+    {{#link-to 'article' article.id}}
+    <img src={{article.image}} alt={{article.headline}} class="articleImg" />
+    <h5>
+      {{article.headline}}
+    </h5>
+    {{/link-to}}
+    <hr>
+    <p class="footerAuthor">
+      {{article.author}}
+    </p>
+    <p class="footerTime">
+      {{article.time}}
+    </p>
+  </div>

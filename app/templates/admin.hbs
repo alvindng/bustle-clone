@@ -1,0 +1,15 @@
+<h1>Admin Portal</h1>
+<div class="col-sm-6">
+  {{new-article save='save'}}
+</div>
+<div class="col-sm-6">
+  <h3>Edit Article</h3>
+  <ul>
+    {{#each model.articles as |article|}}
+      <li>
+        {{article.headline}}
+        {{update-article article=article update="update"}}
+      </li>
+    {{/each}}
+  </ul>
+</div>
