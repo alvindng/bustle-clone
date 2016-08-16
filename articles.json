@@ -1,0 +1,67 @@
+{
+  "articles": [{
+    "author": "Tony Chan",
+    "category": "News",
+    "headline": "The Top 20 Toothbrushes You've Never Heard Of",
+    "time": "03-04-2015 12:00",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+    },
+  {
+    "author": "Alvin Dong",
+    "category": "Books",
+    "headline": "The Top 20 fictions You've Never Heard Of",
+    "time": "03-04-2015 12:03",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+    },
+  {
+    "author": "Sam Bing",
+    "category": "Fashion and Beauty",
+    "headline": "The Top 20 lipsticks You've Never Heard Of",
+    "time": "03-04-2015 12:04",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  },
+  {
+    "author": "Marty High",
+    "category": "Lifestyle",
+    "headline": "The Top 20 kush You've Never Heard Of",
+    "time": "03-04-2015 12:01",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  },
+  {
+    "author": "Sky Guy",
+    "category": "Entertainment",
+    "headline": "The Top 20 TV shows You've Never Heard Of",
+    "time": "03-04-2015 12:02",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }],
+  "authors": [{
+    "name": "Tony Chan",
+    "email": "tc@bustle.com",
+    "image": "http://www.aspirehire.co.uk/aspirehire-co-uk/_img/profile.svg"
+    },
+  {
+    "name": "Alvin Dong",
+    "email": "ad@bustle.com",
+    "image": "http://www.themahaffey.com/mahaffeyblog/wp-content/uploads/2015/09/alvin.jpg"
+    },
+  {
+    "name": "Sam Bing",
+    "email": "sb@bustle.com",
+    "image": "http://ichef.bbci.co.uk/childrens-responsive-ichef/r/400/1x/cbeebies/bing_az_image_bid.png"
+    },
+  {
+    "name": "Marty High",
+    "email": "mh@bustle.com",
+    "image": "http://i1.istockimg.com/file_thumbview_approve/71049719/5/stock-illustration-71049719-marijuana-leaf-silhouette-isolated-on-white-background.jpg"
+    },
+  {
+    "name": "Sky Guy",
+    "email": "sg@bustle.com",
+    "image": "http://www.spacefacts.de/bios/portraits_hi/astronauts/gardner_guy.jpg"
+    }]
+}
